@@ -1,1 +1,5 @@
 ./idea
+
+# Ignores the node_modules directory because it's not needed in the repository.
+
+/node_modules
